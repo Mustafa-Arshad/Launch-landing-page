@@ -1,61 +1,52 @@
-alert("1st class java script");
-alert("Hello js")
+// var subject1 = +prompt("physics Marks /100")
+// var subject2 = +prompt("Maths Marks /100")
+// var subject3 = +prompt("Urdu Marks /100")
+// var subject4 = +prompt("Computer Marks /100")
+// var subject5 = +prompt("English Marks /100")
 
-let A = 10;
-let B = 10;
-console.log(a+b)
+// console.log("Physics: ", +subject1);
+// console.log("Maths: ", +subject2);
+// console.log("Urdu: ", +subject3);
+// console.log("Computer: ", +subject4);
+// console.log("English: ", +subject5);
+// var total = subject1 + subject2 + subject3 + subject4 + subject5
+// console.log("Total Marks: 500")
+// console.log("Total Obtained Marks", +total)
+// var percentage = total / 500 * 100
+// console.log("percentage: ", percentage + "%");
 
-const input = prompt("your name");
-alert('Your name ${input}');
-alert("thanks for starting java script");
-
-var b = 20;
-
-alert(20)
-
-var a = 20;
-var b = 30;
-
-var c = (a+b) * a;
-alert(c)
-
-var a;
-
-a = "Mohammad Mustafa";
-alert(a);
-
-a = "ABC"
-alert(a);
-
-var a = 20;
-var b = "30";
-
-var c = b + a;
-
-
-alert(c);
-
-var abc //legal
-var 123 //illegal
-var 12ab //illegal
-var ab12 //legal
-var _  //legal
-var $ //legal
-var alert //illegal
-
-var a = 20
-var b = 30
-
-a++;
-b--;
-
-console.log(a);
-console.log(b)
-
-var a = 20;
+// if (percentage >= 90 && percentage <= 100) {
+//     console.log("Congrats! you've Secured A++")
+// }
+// else if (percentage >= 80 && percentage <= 90) {
+//     console.log("Congrats! you've Secured A+")
+// }
+// else if (percentage >= 70 && percentage <= 80) {
+//     console.log("Congrats! you've Secured A")
+// }
+// else if (percentage >= 60 && percentage <= 70) {
+//     console.log("Congrats! you've Secured B Grade")
+// }
+// else if (percentage >= 50 && percentage <= 60) {
+//     console.log("Congrats! you've Secured C Grade")
+// }
+// else if (percentage >= 40 && percentage <= 50) {
+//     console.log("Congrats! you've Secured D Grade")
+// }
+// else {
+//     console.log("you've Failed")
+// }
 
 
-var b = a++;
 
-console.log(b);
-console.log(b);
+// var a = prompt("what is your name")
+
+// var b = prompt("Where does the Pope live?");
+
+// var cell0 = "samsung";
+// var cell1 = "Iphone";
+// var cell2 = "realme";
+// var cell3 = "oppo";
+// var cell4 = "vivo";
+// var cell5 = "techno";
+// alert("Welcome to " + cell4);
