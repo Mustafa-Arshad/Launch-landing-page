@@ -1,27 +1,26 @@
-var a = ["a" , "b" , "c" , "d" , "e" ,]
+// alert("hello world")
 
-//push
-//pop
-//shift
-//unshift
-//slice
-//splice
+// alert("wellcome to jawa script \n happy coding")
 
-// a.push("L");
-// a.pop();
-// a.shift();
-// a.unshift("x");
-// var b = a.slice(0,2)
-// var b = a.splice(2,3)
-// a.splice(2,1)
-// a.splice(2,0, "x", "j", "w", "d", "f", "g", "c", "z", )
+// var a = ("user name");
+// console.log(a)
 
-//console.log(a);
-//console.log(b);
-// var i = a.indexOf("e")
-// console.log(a[i]);
+// var book = ("")
+// alert("a smart way to learn jawa script")
 
+// var email = ("e.g. example@example.com")
+// alert("My email address is example@example.com")
 
-// for(var i=1; i < 10; i++){
-//     console.log('4x', +i+'=', 4*1)
-// }
+// alert("P \n i \n z \n z \n a")
+
+// alert("“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”")
+
+// var username = (name)
+// var myname = ("my name")
+// var message = ("hellow world")
+// alert("hellow world")
+
+var a = ("Student Name")
+var b = ("Student identity card")
+var c = ("Student NIC")
+alert(abc);
