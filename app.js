@@ -1,26 +1,23 @@
-// alert("hello world")
+//   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Topic: Changing Case ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬//
+// Task : 1.
+// var a = prompt("Enter Any Word, We Convert it into UPPERCASE");
+// var b = a.toUpperCase();
+// document.write(b);
 
-// alert("wellcome to jawa script \n happy coding")
+// Task : 2.
+// var input = prompt("Enter Any Word, We Convert it into TitleCase")
+// var firstLetter = input.slice(0, 1);
+// var otherLetters = input.slice(1);
+// input = firstLetter.toUpperCase() + otherLetters.toLowerCase();
+// document.write(input);
 
-// var a = ("user name");
-// console.log(a)
+//   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Topic: Strings: measuring length and extracting parts ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬//
+// Task : 1.
+// var mobile = prompt("Enter Your Favorite Mobile Phone Model");
+// var length = mobile.length;
+// document.write(length);
 
-// var book = ("")
-// alert("a smart way to learn jawa script")
-
-// var email = ("e.g. example@example.com")
-// alert("My email address is example@example.com")
-
-// alert("P \n i \n z \n z \n a")
-
-// alert("“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”")
-
-// var username = (name)
-// var myname = ("my name")
-// var message = ("hellow world")
-// alert("hellow world")
-
-var a = ("Student Name")
-var b = ("Student identity card")
-var c = ("Student NIC")
-alert(abc);
+// Task : 2.
+// var str1 = prompt("Enter Your Favorite Mobile Phone Model");
+// var str2 = str1.charAt(str1.length-1);
+// document.write(str2)
